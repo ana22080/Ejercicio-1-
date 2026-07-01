@@ -1,6 +1,7 @@
 .contenedor{
     display:flex;
     flex-wrap: wrap;
+    align-content: center;
     background-color:rgb(236, 168, 208);
     height: 400px;
     gap: 10px;
