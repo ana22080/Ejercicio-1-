@@ -1,0 +1,17 @@
+.contenedor {
+    display: flex;
+    align-items: baseline;
+    background-color:rgb(236, 168, 208);
+    height: 200px;
+    
+}
+.caja{
+    background-color: rgb(222, 162, 248);
+    color: rgb(14, 13, 13);
+    padding: 10px;
+    margin: 5px;
+    width: 60px;
+}
+.alto {
+    height: 100px;
+}

@@ -1,0 +1,20 @@
+.contenedor{
+    display:flex;
+    flex-flow: row wrap;
+    background-color:rgb(236, 168, 208);
+    padding: 10px;
+    gap: 10px;
+    height: 300px;
+}
+
+.item{
+    background-color: rgb(222, 162, 248);
+    color: white;
+    font-size: 1.5rem;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}

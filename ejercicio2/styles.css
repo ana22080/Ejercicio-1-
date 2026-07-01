@@ -1,0 +1,13 @@
+.contenedor {
+    display: flex;
+    justify-content: space-around;
+    background-color:white;
+    padding:  10px;
+    
+}
+.caja{
+    background-color: rgb(222, 162, 248);
+    color: rgb(14, 13, 13);
+    padding: 20px;
+    border-radius: 8px;
+}
